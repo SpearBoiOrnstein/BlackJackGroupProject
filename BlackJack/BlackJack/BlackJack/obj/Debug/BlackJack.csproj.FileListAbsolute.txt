@@ -1,0 +1,12 @@
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Images.resources
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.BlackJack.resources
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.frmNewUser.resources
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.TextFiles.resources

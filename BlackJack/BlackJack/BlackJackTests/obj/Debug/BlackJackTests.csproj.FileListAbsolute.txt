@@ -1,0 +1,16 @@
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\BlackJackTests.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\BlackJackTests.pdb
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\BlackJack.exe
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\BlackJack.pdb
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\BlackJack.exe.config
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.csprojAssemblyReference.cache
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.csproj.CopyComplete
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.dll
+C:\Users\DSU\Desktop\Software Engineering\BlackJack\BlackJack\BlackJackTests\obj\Debug\BlackJackTests.pdb

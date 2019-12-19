@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dealer>
+    <name>Dealer</name>
+    <hand />
+    <score>0</score>
+  </dealer>
+  <numHands>2</numHands>
+  <currentHand>2</currentHand>
+  <playerList>
+    <Player>
+      <name>Dealer</name>
+      <hand>
+        <Card>
+          <CardValue>9</CardValue>
+          <Name>_9</Name>
+          <Suit>clubs</Suit>
+        </Card>
+        <Card>
+          <CardValue>8</CardValue>
+          <Name>_8</Name>
+          <Suit>clubs</Suit>
+        </Card>
+      </hand>
+      <score>17</score>
+      <previousBet>1000</previousBet>
+      <data />
+      <creditCard>
+        <_CreditCardNumber>1234567890123456</_CreditCardNumber>
+        <_cvv2>123</_cvv2>
+        <_expirationDate>2019-07-01T00:00:00</_expirationDate>
+      </creditCard>
+      <Username>Dealer</Username>
+      <Password>Money</Password>
+      <Fname>Hogwarts</Fname>
+      <Lname>McRavenclaw</Lname>
+      <Phonenumber>6056056055</Phonenumber>
+      <isInsured>false</isInsured>
+      <gameEndHandled>false</gameEndHandled>
+      <amountInsured>0</amountInsured>
+      <Creditcard>
+        <_CreditCardNumber>1234567890123456</_CreditCardNumber>
+        <_cvv2>123</_cvv2>
+        <_expirationDate>2019-12-20T00:00:00</_expirationDate>
+      </Creditcard>
+      <money>28000</money>
+      <bet>1000</bet>
+    </Player>
+  </playerList>
+</Game>
